@@ -1,1 +1,1 @@
-Foi feito para contar quantos acertos tiveram em um sorteio.
+Foi feito para contar quantos numeros são iguais.
